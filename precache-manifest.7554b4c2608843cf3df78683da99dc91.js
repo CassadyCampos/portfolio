@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dad1ee2499fff9729451f65022563e56",
+    "revision": "4c63ed0b36aef91557a0e2dd3be9438d",
     "url": "/deploy-test/index.html"
   },
   {
@@ -12,16 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-test/static/js/2.89d17784.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5a050295d9332d03778",
-    "url": "/deploy-test/static/js/main.2c241139.chunk.js"
+    "revision": "9a8888970dc34af518f5",
+    "url": "/deploy-test/static/js/main.b53885af.chunk.js"
   },
   {
     "revision": "8b5a7099889fc3b8cc02",
     "url": "/deploy-test/static/js/runtime-main.6b56c7a5.js"
-  },
-  {
-    "revision": "eaa2753a56f06b84fb0b5206f7940826",
-    "url": "/deploy-test/static/media/black-sand.eaa2753a.jpg"
   },
   {
     "revision": "058ccc5ca66e95f2823659f2ebd00ab5",
@@ -54,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4112cbc1477d9e149033c5df66087e16",
     "url": "/deploy-test/static/media/olu-eletu.4112cbc1.jpg"
+  },
+  {
+    "revision": "baf6b40a654b078399e93e3d9cb6d455",
+    "url": "/deploy-test/static/media/profile-bg.baf6b40a.jpg"
   },
   {
     "revision": "86421c3c3b963f2a8e331ba822961062",

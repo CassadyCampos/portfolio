@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.js": "/deploy-test/static/js/main.2c241139.chunk.js",
-    "main.js.map": "/deploy-test/static/js/main.2c241139.chunk.js.map",
+    "main.js": "/deploy-test/static/js/main.b53885af.chunk.js",
+    "main.js.map": "/deploy-test/static/js/main.b53885af.chunk.js.map",
     "runtime-main.js": "/deploy-test/static/js/runtime-main.6b56c7a5.js",
     "runtime-main.js.map": "/deploy-test/static/js/runtime-main.6b56c7a5.js.map",
     "static/js/2.89d17784.chunk.js": "/deploy-test/static/js/2.89d17784.chunk.js",
     "static/js/2.89d17784.chunk.js.map": "/deploy-test/static/js/2.89d17784.chunk.js.map",
     "index.html": "/deploy-test/index.html",
-    "precache-manifest.61af7c5be75a73a9562c33ba88947cf2.js": "/deploy-test/precache-manifest.61af7c5be75a73a9562c33ba88947cf2.js",
+    "precache-manifest.7554b4c2608843cf3df78683da99dc91.js": "/deploy-test/precache-manifest.7554b4c2608843cf3df78683da99dc91.js",
     "service-worker.js": "/deploy-test/service-worker.js",
     "static/js/2.89d17784.chunk.js.LICENSE.txt": "/deploy-test/static/js/2.89d17784.chunk.js.LICENSE.txt",
-    "static/media/black-sand.jpg": "/deploy-test/static/media/black-sand.eaa2753a.jpg",
     "static/media/cassady.jpg": "/deploy-test/static/media/cassady.058ccc5c.jpg",
     "static/media/clem-onojegaw.jpg": "/deploy-test/static/media/clem-onojegaw.c058841b.jpg",
     "static/media/clem-onojeghuo.jpg": "/deploy-test/static/media/clem-onojeghuo.216ef03c.jpg",
@@ -19,6 +18,7 @@
     "static/media/jurney.jpg": "/deploy-test/static/media/jurney.bac635e6.jpg",
     "static/media/mariya-georgieva.jpg": "/deploy-test/static/media/mariya-georgieva.4575c40b.jpg",
     "static/media/olu-eletu.jpg": "/deploy-test/static/media/olu-eletu.4112cbc1.jpg",
+    "static/media/profile-bg.jpg": "/deploy-test/static/media/profile-bg.baf6b40a.jpg",
     "static/media/shining-student.jpg": "/deploy-test/static/media/shining-student.86421c3c.jpg",
     "static/media/studio-1.jpg": "/deploy-test/static/media/studio-1.ae0150c0.jpg",
     "static/media/studio-2.jpg": "/deploy-test/static/media/studio-2.76e2987e.jpg",
@@ -31,6 +31,6 @@
   "entrypoints": [
     "static/js/runtime-main.6b56c7a5.js",
     "static/js/2.89d17784.chunk.js",
-    "static/js/main.2c241139.chunk.js"
+    "static/js/main.b53885af.chunk.js"
   ]
 }
