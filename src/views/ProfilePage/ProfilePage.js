@@ -67,7 +67,7 @@ export default function ProfilePage(props) {
         }}
         {...rest}
       />
-      <Parallax small filter image={require("../../assets/img/black-sand.jpg")} />
+      <Parallax small filter image={require("../../assets/img/profile-bg.jpg")} />
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div>
           <div className={classes.container}>
@@ -78,8 +78,8 @@ export default function ProfilePage(props) {
                     <img src={profile} alt="..." className={imageClasses} />
                   </div>
                   <div className={classes.name}>
-                    <h2 className={classes.title}>Cassady N. Campos</h2>
-                    <h4>Experienced software developer with a passion for technology.</h4>
+                    <h3 className={classes.title}>Cassady N. Campos</h3>
+                    <p className={classes.title}>Experienced software developer with a passion for technology.</p>
                     <Button justIcon link className={classes.margin5}
                       href="https://twitter.com/CassCA" target="_blank">
                       <i className={"fab fa-twitter"} />
@@ -97,9 +97,8 @@ export default function ProfilePage(props) {
               </GridItem>
             </GridContainer>
             <div className={classes.description}>
-              <p>
-                Yesterday I was clever, so I wanted to change the world.<br></br>
-                Today I am wise, so I am changing myself.<br></br> — Rūmī{" "}
+              <p className={classes.description}>
+                Technology.{" "}
               </p>
             </div>
             <GridContainer justify="center">

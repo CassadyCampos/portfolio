@@ -9,7 +9,6 @@ import GridContainer from "../../../components/Grid/GridContainer.js";
 import GridItem from "../../../components/Grid/GridItem.js";
 import CustomInput from "../../../components/CustomInput/CustomInput.js";
 import Button from "../../../components/CustomButtons/Button.js";
-
 import styles from "../../../assets/jss/material-kit-react/views/landingPageSections/workStyle";
 
 const useStyles = makeStyles(styles);
@@ -21,10 +20,10 @@ export default function ContactSection() {
       <GridContainer justify="center">
         <GridItem cs={12} sm={12} md={8}>
           <h2 className={classes.title}>Contact Me</h2>
-          <h3 className={classes.description}>
+          <p className={classes.description}>
             Have a question or want to collaborate?<br></br>
             Leave a message!
-          </h3>
+          </p>
           <form>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
