@@ -39,11 +39,35 @@ const profilePageStyle = {
   },
   title: {
     ...title,
-    display: "inline-block",
-    position: "relative",
-    marginTop: "30px",
-    minHeight: "32px",
-    textDecoration: "none"
+    // display: "inline-block",
+    // position: "relative",
+    // marginTop: "30px",
+    // minHeight: "32px",
+    // textDecoration: "none"
+    color: '#3C4858',
+    margin: '1.75rem 0 0.875rem',
+    display: 'block',
+    position: 'relative',
+    marginTop: '30px',
+    minHeight: '32px',
+    fontFamily: '"Roboto Slab", "Times New Roman", serif',
+    fontWeight: '500',
+    textDecoration: 'none',
+    fontSize: '1.5625rem',
+    lineHeight: '1.4em'
+  },
+  subTitle: {
+    color: '#3C4858',
+    margin: '1.75rem 0 0.875rem',
+    display: 'block',
+    position: 'relative',
+    marginTop: '4px',
+    minHeight: '32px',
+    fontFamily: '"Roboto Slab", "Times New Roman", serif',
+    fontWeight: '500',
+    textDecoration: 'none',
+    fontSize: '1.5625rem',
+    lineHeight: '1.4em'
   },
   socials: {
     marginTop: "0",

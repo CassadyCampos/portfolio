@@ -67,7 +67,7 @@ export default function ProfilePage(props) {
         }}
         {...rest}
       />
-      <Parallax small filter image={require("../../assets/img/profile-bg.jpg")} />
+      <Parallax small filter image={require("../../assets/img/black-sand.jpg")} />
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div>
           <div className={classes.container}>
@@ -79,7 +79,7 @@ export default function ProfilePage(props) {
                   </div>
                   <div className={classes.name}>
                     <h3 className={classes.title}>Cassady N. Campos</h3>
-                    <p className={classes.title}>Experienced software developer with a passion for technology.</p>
+                    <h5 className={classes.subTitle}>Software Developer</h5>
                     <Button justIcon link className={classes.margin5}
                       href="https://twitter.com/CassCA" target="_blank">
                       <i className={"fab fa-twitter"} />
