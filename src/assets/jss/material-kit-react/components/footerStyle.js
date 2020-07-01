@@ -4,13 +4,14 @@ const footerStyle = {
   block: {
     color: "inherit",
     padding: "0.9375rem",
-    fontWeight: "500",
+    fontWeight: "400",
     fontSize: "12px",
     textTransform: "uppercase",
     borderRadius: "3px",
     textDecoration: "none",
     position: "relative",
-    display: "block"
+    display: "block",
+    fontFamily: '"Roboto","Helvetica","Arial",sans-serif'
   },
   left: {
     float: "left!important",

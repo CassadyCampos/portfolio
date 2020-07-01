@@ -38,7 +38,7 @@ const profilePageStyle = {
       "0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2)"
   },
   title: {
-    ...title,
+    // ...title,
     // display: "inline-block",
     // position: "relative",
     // marginTop: "30px",
@@ -51,7 +51,7 @@ const profilePageStyle = {
     marginTop: '30px',
     minHeight: '32px',
     fontFamily: '"Roboto Slab", "Times New Roman", serif',
-    fontWeight: '500',
+    fontWeight: '600',
     textDecoration: 'none',
     fontSize: '1.5625rem',
     lineHeight: '1.4em'
@@ -61,12 +61,12 @@ const profilePageStyle = {
     margin: '1.75rem 0 0.875rem',
     display: 'block',
     position: 'relative',
-    marginTop: '4px',
+    marginTop: '20px',
     minHeight: '32px',
     fontFamily: '"Roboto Slab", "Times New Roman", serif',
-    fontWeight: '500',
+    fontWeight: '600',
     textDecoration: 'none',
-    fontSize: '1.5625rem',
+    fontSize: '1rem',
     lineHeight: '1.4em'
   },
   socials: {
